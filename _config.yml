@@ -20,10 +20,10 @@ author: MFL
 ###############################################
 
 navbar-links:
-  About  Us: "aboutus"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  Contact Us: "contactus"
 
 ################
 # --- Logo --- #
