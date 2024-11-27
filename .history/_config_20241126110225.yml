@@ -20,8 +20,9 @@ author: MFL
 ###############################################
 
 navbar-links:
-  Downloadables:
-    - Ne Estimator: "resource-neestimator"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
   Contact Us: "contactus"
 
 ################
@@ -50,7 +51,7 @@ social-network-links:
   email: "molecularfisherieslaboratory[at]gmail[dot]com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: molecularfisherieslaboratory
+  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
