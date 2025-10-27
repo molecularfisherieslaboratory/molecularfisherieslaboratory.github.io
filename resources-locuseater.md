@@ -1,5 +1,5 @@
 **Price:**	This software is freely available for non-commercial scientific use
-**Download:**	DOWNLOAD – Please register your details before downloading this software
+**Download:**	[DOWNLOAD – Please register your details before downloading this software](https://forms.gle/nAG8pxqjkFKiUfgY7).
 **Product author:**	Molecular Fisheries Laboratory
 **Release date:**	July 2005
 **Version:**	2.3
@@ -31,7 +31,7 @@ Q: Is there a version of LocusEater available for Macs?
 A: No.
 
 Q: How do I get a copy of LocusEater?
-A: Click on the link below to open the LocusEater registration page. Register yourself as a user of LocusEater (enter your details in the spaces provided and click the submit button), then download the LocusEater installation file (locuseatersetup.exe).
+A: [DOWNLOAD – Please register your details before downloading this software](https://forms.gle/nAG8pxqjkFKiUfgY7).
 
 Q: How do I get LocusEater started once I have downloaded the installation file?
 A: Once you have a copy of the installation file on your computer, double-click this file’s icon. The installation wizard will open and lead you through the installation process. Once the installation process is complete, you will be able to start the program (double-click on the file ‘LocusEater.exe’) and use the online help to guide you further.
@@ -43,4 +43,4 @@ Q: How do I uninstall LocusEater?
 A: There is an uninstall program provided with LocusEater. There are several ways of activating this program (e.g. through the Add/Remove Programs in the Control Panel of Windows 2000) of which one is described here. Find the file ‘uninstall.exe’ in the LocusEater installation directory (e.g. ‘C:\Program Files\LocusEater’) and double-click it. A message will ask ‘Are you sure you want to uninstall LocusEater?’, click ‘Yes’. LocusEater will be uninstalled. If the ‘Uninstalling LocusEater’ window asks, the file ‘help.GID’ can be deleted.
 
 # Feedback
-Please send any questions or feedback to Contact Us
+Please send any questions or feedback to molecularfisherieslaboratory[at]gmail[dot]com

@@ -5,7 +5,7 @@ permalink: /neogen
 ---
 
 **Price:**	This software version and documentation are free (GNU General Public License GPL 3.0)
-**Download:**	DOWNLOAD – Please register your details before downloading this software
+**Download:** [DOWNLOAD – Please register your details before downloading this software](https://forms.gle/nAG8pxqjkFKiUfgY7).  
 **Software authors:**	Blower, D.; Riginos, C.; Ovenden, J.
 **Release date:**	June 2019
 **Version:**	Ver. 1.3.0.6.a1.
@@ -34,19 +34,14 @@ Mouse or compatible pointing device.
 User-specified PDF-viewer (eg. Adobe Acrobat or equivalent)
 
 ## Further information:
-Installation details are described in the README file here.
-The user manual can be downloaded here.
-
 Four screen shots showing the software in operation are available; the Scenario specification screen, the Scenario results screen, the Sampling Strategy specification screen, and the Sampling Strategy results screen
-
-For details on what’s new in the latest version, download the CHANGE-LOG file here.
 
 ## Frequently asked questions
 Q: Is there a version of NeOGen available for Linux and/or Macs?
 A: No. Hopefully, we can supply a version compatible with your OS in the next versions.
 
 Q: How do I get a copy of NeOGen?
-A:  Click on the link below to open the NeOGen registration page. Register yourself as a user of NeOGen (enter your details in the spaces provided and click the submit button), then download the NeOGen installation file (Setup-NeOGen.exe).
+A:  [DOWNLOAD – Please register your details before downloading this software](https://forms.gle/nAG8pxqjkFKiUfgY7).
 
 Q: How do I get NeoGen started once I have downloaded the installation file?
 A: Please use the following installation procedure:
@@ -60,4 +55,5 @@ You’re done! Start exploring the wonder of NeOGen. Reading the guides will hel
 
 Q: How do I uninstall NeoGen?
 A: Uninstall NeOGen from the Windows Programs & Features Control Panel screen by clicking on the NeOGen entry. Alternatively, clicking on the uninstall.exe in the installation folder will start the uninstall process.
+
 
