@@ -81,4 +81,4 @@ Q: Is there a 64-bit version of the software?
 A: 64-bit versions are available for download for Mac, Linux and PC.
 
 ## Feedback
-Please send any questions or feedback to Contact Us
+Please send any questions or feedback to molecularfisherieslaboratory[at]gmail[dot]com
