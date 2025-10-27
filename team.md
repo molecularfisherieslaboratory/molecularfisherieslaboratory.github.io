@@ -1,6 +1,7 @@
-# Team 
+# Team {#team}
+
 ## Jennifer Ovenden
-Jennifer Ovenden is an Honorary Associate Professor at the University of Queensland (Brisbane, Australia) and founder of the Molecular Fisheries Laboratory. In 2020, she retired from full-time work. In recognition of her significant contributions to the understanding, sustainable use, and conservation of chondrichthyans in the Oceania region, Dr. Ovenden was honored with the  Oceania Chondrichthyan Society (OCS) Lifetime Achievement and Membership Award in 2022. While she no longer leads the laboratory's day-to-day operations, her legacy continues to influence our research. The Molecular Fisheries Laboratory remains active, focusing on population genetics and genomics to inform sustainable fisheries management. 
+Jennifer Ovenden is the founder of the Molecular Fisheries Laboratory. In 2020, she retired from full-time work. In recognition of her significant contributions to the understanding, sustainable use, and conservation of chondrichthyans in the Oceania region, Dr. Ovenden was honored with the  Oceania Chondrichthyan Society (OCS) Lifetime Achievement and Membership Award in 2022. While she no longer leads the laboratory's day-to-day operations, her legacy continues to influence our research. The Molecular Fisheries Laboratory remains active, focusing on population genetics and genomics to inform sustainable fisheries management. 
 
 
 ## Christine Dudgeon
@@ -16,7 +17,7 @@ Andy is a scientist at the Australian Bureau of Agricultural and Resource Econom
 
 ## Other active members:
 ### Dani Davenport
-Dani is an alumna of the Molecular Fisheries Laboratory, where she focused on population genomics for marine conservation. She is now a postdoctoral fellow at Fisheries and Oceans Canada, studying adaptive population structure in zooplankton.
+Dani is an alumna of the Molecular Fisheries Laboratory, where she focused on population genomics for marine conservation. She is now a postdoctoral fellow at Fisheries and Oceans Canada.
 
 ### Dean Blower
 Dean Blower, and an alumna of the Molecular Fisheries Laboratory, is a molecular genomics and computational biology specialist currently associated with Tern BioTec and the University of Queensland. His work integrates genomic data with computational tools to address complex biological questions.
