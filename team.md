@@ -1,3 +1,8 @@
+---
+layout: page
+title: "The Team"
+---
+
 ## Jennifer Ovenden  
 ![Name](assets/img/jenny-headshot-e1388809944175.jpg)   
 Jennifer Ovenden is the founder of the Molecular Fisheries Laboratory. In 2020, she retired from full-time work. In recognition of her significant contributions to the understanding, sustainable use, and conservation of chondrichthyans in the Oceania region, Dr. Ovenden was honored with the Oceania Chondrichthyan Society (OCS) Lifetime Achievement and Membership Award in 2022. While she no longer leads the laboratory's day-to-day operations, her legacy continues to influence our research. The Molecular Fisheries Laboratory remains active, focusing on population genetics and genomics to inform sustainable fisheries management.  

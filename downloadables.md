@@ -1,5 +1,11 @@
-# MFL Downloads:  
-To get a downloand and to stay up-to-date with our latest releases, please [fill in this form](https://forms.gle/nAG8pxqjkFKiUfgY7).  
+---
+layout: page
+title: "Software"
+---
+ 
+To download our software and to stay up-to-date with our latest releases, please [fill in this form](https://forms.gle/nAG8pxqjkFKiUfgY7).  
+  
+  
 
 ### SHAZA (Shadow zone analysis)
 SHAZA is a likelihood based genotype matching package available for wildlife recapture assignment and other forensic studies. It is highly suitable for non-invasive sampling where missing loci and or genotype errors are prevalent. The built-in simulation options make SHAZA a powerful statistical tool for testing experimental design.  
