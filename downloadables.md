@@ -1,5 +1,3 @@
-# Downloadables
-
 ## Downloand and Stay Updated with New Releases
 To get a downloand and to stay up-to-date with our latest releases, please [fill in this form](https://forms.gle/nAG8pxqjkFKiUfgY7).  
 

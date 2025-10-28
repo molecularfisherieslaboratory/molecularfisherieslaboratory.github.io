@@ -1,5 +1,3 @@
-# Team
-
 ## Jennifer Ovenden  
 ![Name](assets/img/jenny-headshot-e1388809944175.jpg)   
 Jennifer Ovenden is the founder of the Molecular Fisheries Laboratory. In 2020, she retired from full-time work.  
