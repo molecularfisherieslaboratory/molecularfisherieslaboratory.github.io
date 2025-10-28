@@ -1,16 +1,12 @@
 ## Jennifer Ovenden  
 ![Name](assets/img/jenny-headshot-e1388809944175.jpg)   
-Jennifer Ovenden is the founder of the Molecular Fisheries Laboratory. In 2020, she retired from full-time work.  
-In recognition of her significant contributions to the understanding, sustainable use, and conservation of chondrichthyans in the Oceania region, Dr. Ovenden was honored with the Oceania Chondrichthyan Society (OCS) Lifetime Achievement and Membership Award in 2022. While she no longer leads the laboratory's day-to-day operations, her legacy continues to influence our research.  
-The Molecular Fisheries Laboratory remains active, focusing on population genetics and genomics to inform sustainable fisheries management.  
+Jennifer Ovenden is the founder of the Molecular Fisheries Laboratory. In 2020, she retired from full-time work. In recognition of her significant contributions to the understanding, sustainable use, and conservation of chondrichthyans in the Oceania region, Dr. Ovenden was honored with the Oceania Chondrichthyan Society (OCS) Lifetime Achievement and Membership Award in 2022. While she no longer leads the laboratory's day-to-day operations, her legacy continues to influence our research. The Molecular Fisheries Laboratory remains active, focusing on population genetics and genomics to inform sustainable fisheries management.  
 
 ---
 
 ## Christine Dudgeon  
 ![Name](assets/img/Chirs-profile-pic-sml.jpg)  
-Currently, Chris leads the Molecular Fisheries Laboratory, continuing to advance research on marine population ecology, including her ongoing work with leopard sharks and various other marine life.  
-Chris’ work focuses on the ecology and evolution of marine populations and species, and their application to conservation and fisheries management. She employs a suite of techniques including genetics, acoustic telemetry, conventional and natural tagging (mark-recapture), and statistical modelling. Chris obtained her undergraduate and honours degrees at James Cook University (JCU) and subsequently worked as a research assistant at JCU and the Australian Institute of Marine Science.  
-She obtained her PhD at The University of Queensland (UQ) in 2009, focusing on the ecology of the zebra shark, in association with The Molecular Fisheries Laboratory.  
+Currently, Chris leads the Molecular Fisheries Laboratory, continuing to advance research on marine population ecology, including her ongoing work with leopard sharks and various other marine life. Chris’ work focuses on the ecology and evolution of marine populations and species, and their application to conservation and fisheries management. She employs a suite of techniques including genetics, acoustic telemetry, conventional and natural tagging (mark-recapture), and statistical modelling. Chris obtained her undergraduate and honours degrees at James Cook University (JCU) and subsequently worked as a research assistant at JCU and the Australian Institute of Marine Science. She obtained her PhD at The University of Queensland (UQ) in 2009, focusing on the ecology of the zebra shark, in association with The Molecular Fisheries Laboratory.  
 
 ---
 
@@ -22,16 +18,14 @@ Jess has extensive experience working with DNA sequences from nuclear and mitoch
 
 ## Andy Moore  
 ![Name](assets/img/andy-moore-e1388810292155.jpeg)  
-Andy is a scientist at the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES).  
-Dr. Moore has over 20 years of experience in fisheries science and management. He contributes to research and policy development in the field of fisheries, focusing on sustainable management and population assessment.  
+Andy is a scientist at the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES). Dr. Moore has over 20 years of experience in fisheries science and management. He contributes to research and policy development in the field of fisheries, focusing on sustainable management and population assessment.  
 
 ---
 
 ## Other Active Members
 
 ### Dani Davenport
-Dani is an alumna of the Molecular Fisheries Laboratory, where she focused on population genomics for marine conservation.  
-She is now a postdoctoral fellow at Fisheries and Oceans Canada.  
+Dani is an alumna of the Molecular Fisheries Laboratory, where she focused on population genomics for marine conservation. She is now a postdoctoral fellow at Fisheries and Oceans Canada.  
 
 ### Dean Blower
 Dean Blower, an alumnus of the Molecular Fisheries Laboratory, is a molecular genomics and computational biology specialist currently associated with Tern BioTec and The University of Queensland. His work integrates genomic data with computational tools to address complex biological questions.  
