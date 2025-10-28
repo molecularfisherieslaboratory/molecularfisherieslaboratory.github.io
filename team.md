@@ -2,6 +2,7 @@
 layout: page
 title: "The Team"
 ---
+  
 
 ## Jennifer Ovenden  
 ![Name](assets/img/jenny-headshot-e1388809944175.jpg)   
@@ -198,7 +199,7 @@ His research interests include statistical modeling, machine learning, and data 
 ## Lisa Pope
 **University:** University of Queensland  
 **Position:** Postdoctoral fellow  
- 
+
 ---
 
 ## Bree Tillett
