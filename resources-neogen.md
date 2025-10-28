@@ -105,9 +105,7 @@ Four screenshots show the software in operation:
 6. The user manual (Guide 0) opens alongside the main app on launch.  
 
 **Q:** How do I uninstall NeOGen?  
-**A:**  
-
-- Use *Programs & Features* in Windows Control Panel to uninstall,  
+**A:** Use *Programs & Features* in Windows Control Panel to uninstall,  
   **or** run `uninstall.exe` from the installation folder.  
 
 ---
