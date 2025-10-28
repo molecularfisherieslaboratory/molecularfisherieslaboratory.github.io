@@ -93,7 +93,7 @@ Four screenshots show the software in operation:
 **A:** [DOWNLOAD – Please register your details before downloading this software](https://forms.gle/nAG8pxqjkFKiUfgY7).  
 
 **Q:** How do I install NeOGen once downloaded?  
-**A:**  
+**A:** Follow these steps:
 
 1. Download the Setup `.exe` file.  
 2. Double-click the Setup file to start installation.  
