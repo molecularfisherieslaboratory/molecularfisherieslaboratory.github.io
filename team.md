@@ -198,6 +198,7 @@ His research interests include statistical modeling, machine learning, and data 
 ## Lisa Pope
 **University:** University of Queensland  
 **Position:** Postdoctoral fellow  
+ 
 ---
 
 ## Bree Tillett
