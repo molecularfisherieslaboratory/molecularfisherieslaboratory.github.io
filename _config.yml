@@ -21,8 +21,7 @@ author: MFL
 
 navbar-links:
   The Team: "team"
-  Downloadables:
-    - Ne Estimator: "resource-neestimator"
+  Downloadables: "downloadables"
   Contact Us: "contactus"
 
 ################
