@@ -37,8 +37,7 @@ Dani is an alumna of the Molecular Fisheries Laboratory, where she focused on po
 Dean Blower, an alumnus of the Molecular Fisheries Laboratory, is a molecular genomics and computational biology specialist currently associated with Tern BioTec and The University of Queensland. His work integrates genomic data with computational tools to address complex biological questions.  
 
 ### Andrew Jones
-Dr. Andrew Jones is a Senior Statistician at the Centre for Health Services Research at The University of Queensland.  
-His research interests include statistical modeling, machine learning, and data analytics, with applications in health services and population genetics. Dr. Jones has collaborated with the Molecular Fisheries Laboratory on projects involving genetic data analysis and effective population size estimation in marine species. His work contributes to the understanding of population dynamics and informs conservation strategies for marine biodiversity.  
+Dr. Andrew Jones is a Senior Statistician at the Centre for Health Services Research at The University of Queensland. His research interests include statistical modeling, machine learning, and data analytics, with applications in health services and population genetics. Dr. Jones has collaborated with the Molecular Fisheries Laboratory on projects involving genetic data analysis and effective population size estimation in marine species. His work contributes to the understanding of population dynamics and informs conservation strategies for marine biodiversity.  
 
 ---
 
