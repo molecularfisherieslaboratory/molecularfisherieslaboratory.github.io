@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Software: NeEstimator"
-permalink: /neestimator
+permalink: /neestimator-software/
 ---
 
 The NeEstimator software estimates genetic effective population sizes (Ne) from genotype data.
