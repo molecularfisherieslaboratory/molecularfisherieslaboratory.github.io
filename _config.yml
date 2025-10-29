@@ -298,3 +298,13 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+# site map 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.molecularfisherieslaboratory.com/</loc>
+  </url>
+  <url>
+    <loc>https://www.molecularfisherieslaboratory.com/neestimator-software/</loc>
+  </url>
+</urlset>
