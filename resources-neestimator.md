@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Software: NeEstimator"
+description: "NeEstimator is a population genetics tool developed by the Molecular Fisheries Laboratory for estimating effective population size (Ne) from genetic data. Download NeEstimator here."
+keywords: "NeEstimator, effective population size, genetic software, Molecular Fisheries Laboratory, fisheries genetics, MFL"
 permalink: /neestimator-software/
 ---
 
