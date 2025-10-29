@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Software: NeOGen"
-permalink: /neogen
+permalink: /neogen-v1-3-0-6-a1-software
 ---
 
 # NeOGen Software

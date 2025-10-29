@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Software"
+permalink: /Downloadables
 ---
  
 To download our software and to stay up-to-date with our latest releases, please [fill in this form](https://forms.gle/nAG8pxqjkFKiUfgY7).  
