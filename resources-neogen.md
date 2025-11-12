@@ -24,6 +24,9 @@ June 2019
 **Download format:**  
 200 MB `.exe` file (self-guided installation).  
 
+**Github:**  
+[Neogen is on github!](https://github.com/blower-dc/neogen)
+
 ---
 
 ## Product Information
