@@ -10,7 +10,7 @@ permalink: /neogen-v1-3-0-6-a1-software
 This software version and documentation are free (GNU General Public License GPL 3.0).  
 
 **Download:**  
-[**DOWNLOAD – Please register your details before downloading this software**](https://forms.gle/nAG8pxqjkFKiUfgY7)  
+[Click here for NeoGeN](https://github.com/blower-dc/neogen/releases/latest)
 
 **Software authors:**  
 Blower, D.; Riginos, C.; Ovenden, J.  

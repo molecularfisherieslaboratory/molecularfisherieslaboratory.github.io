@@ -9,7 +9,7 @@ permalink: /neestimator-software/
 The NeEstimator software estimates genetic effective population sizes (Ne) from genotype data.
 
 **Price:**	This software is freely available for non-commercial scientific use  
-**Download:**	[DOWNLOAD – Please register your details before downloading this software](https://forms.gle/nAG8pxqjkFKiUfgY7)  
+**Download:** [Click here for NeEstimator](https://github.com/molecularfisherieslaboratory/Downloadables/releases/download/v2.1/NeEstimator.zip)
 **Product author:**	NeEstimator development team  
 **Release date:**	December 2017  
 **Version:**	2.1 — This version is a major update of version 2.01  
