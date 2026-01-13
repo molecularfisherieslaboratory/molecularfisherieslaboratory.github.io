@@ -4,7 +4,7 @@ title: "Software"
 permalink: /downloadables/
 ---
  
-To download our software and to stay up-to-date with our latest releases, please [fill in this form](https://forms.gle/nAG8pxqjkFKiUfgY7).  
+To download our software and to stay up-to-date with our latest releases, please [fill in this form](https://forms.gle/nAG8pxqjkFKiUfgY7),  or click a link below.   
   
 ### NeEstimator
 The NeEstimator software estimates the effective population sizes (Ne) from diploid genotype data.  
